@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @irmaliaelizabeth
 - 👀 I’m interested in frontend
-- 🌱 I’m currently learning reactjs
+- 🌱 I’m currently learning react.js and tailwind css
 
 <!---
 irmaliaelizabeth/irmaliaelizabeth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
